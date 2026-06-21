@@ -1,23 +1,23 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Unite Sports FIFA" tvg-logo="https://img.icons8.com/color/96/000000/fifa.png",Unite Sports FIFA Hindi
+#EXTINF:-1 tvg-id="Unite Sports FIFA" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png",Unite Sports FIFA Hindi
 http://212.102.34.8:9080/AndFlixHD/video.m3u8
-#EXTINF:-1 tvg-id="Toffee English" tvg-logo="https://img.icons8.com/color/96/000000/cricket.png",Toffee English
+#EXTINF:-1 tvg-id="Toffee English" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png",Toffee English
 https://cdn-tt.pages.dev/ch5.m3u8
-#EXTINF:-1 tvg-id="Sony Ten1 Hindi" tvg-logo="https://img.icons8.com/color/96/000000/tennis.png",Sony Ten1 Hindi
+#EXTINF:-1 tvg-id="Sony Ten1 Hindi" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png",Sony Ten1 Hindi
 https://sm-monirul.top/toffee/play/sony_sports_1_hd.m3u8
-#EXTINF:-1 tvg-id="Sony Ten2" tvg-logo="https://img.icons8.com/color/96/000000/badminton.png",Sony Ten2
+#EXTINF:-1 tvg-id="Sony Ten2" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png",Sony Ten2
 https://sm-monirul.top/toffee/play/sony_sports_2_hd.m3u8
-#EXTINF:-1 tvg-id="Sony Ten5" tvg-logo="https://img.icons8.com/color/96/000000/sports-mode.png",Sony Ten5
+#EXTINF:-1 tvg-id="Sony Ten5" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png",Sony Ten5
 https://sm-monirul.top/toffee/play/ten_cricket.m3u8
-#EXTINF:-1 tvg-id="Sony Ten Cricket" tvg-logo="https://img.icons8.com/color/96/000000/cricket.png",Sony Ten Cricket
+#EXTINF:-1 tvg-id="Sony Ten Cricket" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png",Sony Ten Cricket
 https://sm-monirul.top/toffee/play/ten_cricket.m3u8
-#EXTINF:-1 tvg-id="beIN Sports 1" tvg-logo="https://img.icons8.com/color/96/000000/football2.png",beIN Sports 1 English
+#EXTINF:-1 tvg-id="beIN Sports 1" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png",beIN Sports 1 English
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
-#EXTINF:-1 tvg-id="beIN Sports Direct" tvg-logo="https://img.icons8.com/color/96/000000/football2.png",beIN Sports Direct English
+#EXTINF:-1 tvg-id="beIN Sports Direct" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png",beIN Sports Direct English
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
-#EXTINF:-1 tvg-id="Win Sports" tvg-logo="https://img.icons8.com/color/96/000000/win.png",Win Sports English
+#EXTINF:-1 tvg-id="Win Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png",Win Sports English
 https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
-#EXTINF:-1 tvg-id="Pogo" tvg-logo="https://img.icons8.com/color/96/000000/cartoon-network.png",Pogo Hindi
+#EXTINF:-1 tvg-id="Pogo" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png",Pogo Hindi
 http://103.180.212.191:3500/live/559.m3u8
-#EXTINF:-1 tvg-id="Discovery Kids" tvg-logo="https://img.icons8.com/color/96/000000/discovery.png",Discovery Kids Hindi
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png",Discovery Kids Hindi
 http://103.180.212.191:3500/live/554.m3u8
