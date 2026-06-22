@@ -21,5 +21,5 @@ https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
 #EXTINF:-1 tvg-id="Pogo" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png",Pogo Hindi
 http://103.180.212.191:3500/live/559.m3u8
-#EXTINF:-1 tvg-id="Discovery Kids" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png",Discovery Kids Hindi
-http://103.180.212.191:3500/live/554.m3u8
+#EXTINF:-1 tvg-id="GO Live" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png",Discovery Kids Hindi
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
