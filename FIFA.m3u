@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Unite Sports FIFA" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png",Unite Sports FIFA Hindi
+#EXTINF:-1 tvg-id="Unite Sports FIFA" tvg-logo="1920x1080list88f79d7c74df4d998da1bbd448f465ff.jpg",Unite Sports FIFA Hindi
 http://212.102.34.8:9080/AndFlixHD/video.m3u8
 #EXTINF:-1 tvg-id="Toffee English" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png",Toffee English
 https://cdn-tt.pages.dev/ch5.m3u8
