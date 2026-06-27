@@ -23,5 +23,5 @@ https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
 http://103.180.212.191:3500/live/559.m3u8
 #EXTINF:-1 tvg-id="GO Live" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png",Go Live FIFA 
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Channel 276730" tvg-logo="" group-title="Live TV",Channel 276730
+#EXTINF:-1 tvg-id="" tvg-name="Channel 276730" tvg-logo="https://tatalogo.pages.dev/235.png" group-title="Live TV",Channel 276730
 http://tvportal4k.xyz:80/live/Rachideddib26/d41g5hkc1b/276730.m3u8
