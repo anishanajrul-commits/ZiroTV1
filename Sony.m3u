@@ -1,0 +1,22 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="SonyTen3.in" tvg-name="Sony Ten 3" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_SD_Logo_CLR.png" group-title="Sony Pack",Sony Ten 3
+https://cloudplay-sonyliv.pages.dev/ten3.m3u8
+
+#EXTINF:-1 tvg-id="SonyTen1.in" tvg-name="Sony Ten 1" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png" group-title="Sony Pack",Sony Ten 1
+https://cloudplay-sonyliv.pages.dev/ten1.m3u8
+
+#EXTINF:-1 tvg-id="SonyMax.in" tvg-name="Sony Max" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_MAX.png" group-title="Sony Pack",Sony Max
+https://cloudplay-sonyliv.pages.dev/max.m3u8
+
+#EXTINF:-1 tvg-id="SonyMaxHD.in" tvg-name="Sony Max HD" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_MAX.png" group-title="Sony Pack",Sony Max HD
+https://cloudplay-sonyliv.pages.dev/maxhd.m3u8
+
+#EXTINF:-1 tvg-id="SonyWah.in" tvg-name="Sony Wah" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_WAH.png" group-title="Sony Pack",Sony Wah
+https://cloudplay-sonyliv.pages.dev/wah.m3u8
+
+#EXTINF:-1 tvg-id="SonyMax2.in" tvg-name="Sony Max 2" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_MAX2.png" group-title="Sony Pack",Sony Max 2
+https://cloudplay-sonyliv.pages.dev/max2.m3u8
+
+#EXTINF:-1 tvg-id="SonyTen4.in" tvg-name="Sony Ten 4" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_SD_Logo_CLR.png" group-title="Sony Pack",Sony Ten 4
+https://cloudplay-sonyliv.pages.dev/ten4.m3u8
