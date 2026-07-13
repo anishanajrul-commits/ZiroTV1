@@ -2,8 +2,8 @@
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/9xjhakaas.png",9X Jhakaas
 https://cdn-3.pishow.tv/live/6/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_urdu.png",DD Urdu
-https://cdn-4.pishow.tv/live/8/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_urdu.png",Sony Max HD
+http://103.165.93.31:8095/unt-s/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Kisan.png",DD Kisan
 https://cdn-6.pishow.tv/live/9/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_bharati.png",DD Bharati
